@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
         <!-- Open Graph Meta Tags -->
         <meta property="og:title" content="My OG Meta Tags Example" />
         <meta property="og:description" content="This is a simple example of an HTML page with Open Graph meta tags." />
-        <meta property="og:image" content="https://example.com/path/to/your/image.jpg" />
+        <meta property="og:image" content="https://miro.medium.com/v2/resize:fit:1200/1*4KdmDFFwlS1EbQmtqx180g.jpeg" />
         <meta property="og:url" content="http://localhost:3000/" />
         <meta property="og:type" content="website" />
     </head>
